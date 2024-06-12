@@ -1,0 +1,1 @@
+Created a system to control traffic lights using a programmable board. Built and tested modules that send and receive signals, ensuring the traffic lights change correctly. Added a feature to send real-time updates for monitoring the system and conducted testbench simulations to ensure the system worked perfectly.
